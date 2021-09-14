@@ -16,6 +16,16 @@ We will develop an app that can assist patients with dietary restrictions and gi
 By restricting the scope of this project to only be used by healthcare employees, it can be reasonably completed in the span of this 14 week course. Developing this software would allow employees to achieve higher efficiency and allow better processing of patient information. 
 
 
+### Feature List
+
+<ul>
+<li>Create an account for nutritionists</li>
+<li>Input recipies and tag ingredients, alergens, and calories</li>
+<li>Add and edit patients and their preferences to the application</li>
+<li>View meal plans and analyze patient dietary information</li>
+</ul>
+
+
 
 #### Resources and References: 
 
