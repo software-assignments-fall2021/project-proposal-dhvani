@@ -20,7 +20,7 @@ By restricting the scope of this project to only be used by healthcare employees
 
 <ul>
 <li>Create an account for nutritionists</li>
-<li>Input recipies and tag ingredients, alergens, and calories</li>
+<li>Input meals and tag ingredients, alergens, and calories</li>
 <li>Add and edit patients and their preferences to the application</li>
 <li>View meal plans and analyze patient dietary information</li>
 </ul>
